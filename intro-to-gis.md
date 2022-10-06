@@ -1,5 +1,9 @@
+---
 layout: page
 title: "Introduction to GIS with QGIS"
-permalink: /intro-to-gis/
+permalink: /intro-to-gis
+---
+
+
 
 # This is the opening page of the intro to gis lesson.

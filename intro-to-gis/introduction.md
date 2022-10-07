@@ -2,6 +2,7 @@
 layout: page
 title: Introduction
 parent: Introduction to GIS with QGIS
+nav_order: 1
 ---
 
 # Introduction

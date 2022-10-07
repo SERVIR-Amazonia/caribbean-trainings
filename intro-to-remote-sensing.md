@@ -2,6 +2,7 @@
 layout: page
 title: "Introduction to Remote Sensing"
 permalink: /intro-to-remote-sensing
+nav_order: 3
 ---
 
 

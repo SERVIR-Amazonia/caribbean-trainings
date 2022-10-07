@@ -6,4 +6,11 @@ permalink: /intro-to-gis
 
 
 
-# This is the opening page of the intro to gis lesson.
+# Introduction to GIS with QGIS
+
+## Pre-workshop
+Add pre-workshop set-up information here.
+
+## Lesson Outline
+Add lesson outline here
+

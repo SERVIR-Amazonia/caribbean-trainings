@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Making a Map: Vector Data
+title: Making a Map with Vector Data
 parent: Introduction to GIS with QGIS
 nav_order: 2
 ---
 
-# Concepts
+# Making a Map with Vector Data
+## Concepts
 Add content
 
-# Exercise
+## Exercise
 Add content

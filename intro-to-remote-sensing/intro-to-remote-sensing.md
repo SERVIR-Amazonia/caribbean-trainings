@@ -2,6 +2,7 @@
 layout: page
 title: "Introduction to Remote Sensing"
 permalink: /intro-to-remote-sensing
+has_children: True
 nav_order: 4
 ---
 

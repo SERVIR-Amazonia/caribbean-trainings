@@ -6,6 +6,10 @@ has_children: True
 nav_order: 4
 ---
 
+# Introduction to Remote Sensing
 
+## Pre-workshop
+Add pre-workshop set-up information here.
 
-# This is the opening page of the intro to remote sensing lesson.
+## Lesson Outline
+Add lesson outline here

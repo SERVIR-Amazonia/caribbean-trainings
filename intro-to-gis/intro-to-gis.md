@@ -10,7 +10,7 @@ nav_order: 3
 
 # Introduction to GIS with QGIS
 
-## Set-up
+## Pre-workshop Set-up
 1. [Install](https://www.qgis.org/en/site/forusers/download.html) QGIS.
 2. Download[ADD LINK TO DATA FOLDER] and upzip the data folder for the lesson. Save the upzipped folder on your Desktop. Make sure the folder is named `intro-gis-data`. 
 

@@ -3,6 +3,11 @@ layout: page
 title: Overview
 nav_order: 1
 ---
+<html>
+<head>
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+</html>
 
 # COUNTRY NAME Geospatial Capacity Building Workshops
 These workshops aim to build participants' capacity to use geospatial technologies for mangrove and hydrological event management. For a detailed overview, you can read the workshop's [concept note](https://docs.google.com/document/d/1N3lmDg1uZoC4VQdsRQyvUtch2jIqBJpM_BBgyg_aUqE/edit?usp=sharing). By the end of this training series, participants will gain:

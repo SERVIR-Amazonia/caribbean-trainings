@@ -8,8 +8,76 @@ nav_order: 4
 
 # Introduction to Remote Sensing
 
-## Pre-workshop
-Add pre-workshop set-up information here.
+## Pre-workshop Set-up
+1. [Install](https://www.qgis.org/en/site/forusers/download.html) QGIS if it is not already installed.
+2. Download[ADD LINK TO DATA FOLDER] and upzip the data folder for the lesson. Save the upzipped folder on your Desktop. Make sure the folder is named `intro-remote-sensing-data`. 
 
-## Lesson Outline
-Add lesson outline here
+## Session Agenda
+**Date**: DATE  
+**Instructor(s):** NAME(S)
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Time</th>
+      <th align="center">Topics</th>
+    </tr>
+    <tr>
+      <td>09:00 - 09:45</td>
+      <td>
+        <ul>
+            <li>Welcome and set-up check</li>
+            <li>Remote sensing overview: how data is collected and stored, spatial and temporal resolution, key satellites and sensors</li>
+         </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>09:45 - 10:00</td>
+      <td>
+        <ul>
+            <li>Data collection: Earth Explorer and Copernicus Open Access Hub</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10:00 - 11:00</td>
+      <td>
+        <ul>
+            <li>How to visualize and interpret remote sensing data</li>
+            <li>Visualizing vegetation indices using Landsat</li>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11:00 - 11:15</td>
+      <td>Coffee break</td>
+    </tr>
+    <tr>
+      <td>11:15 - 12:00</td>
+      <td>
+        <ul>
+            <li>How to select the right type of remote sensing data for your research</li>
+            <li>Visualizing vegetation indices with Sentinel-2</li>
+            <li>Sentinel-2 vs. Landsat</li>
+          </ul>
+      </td>
+    </tr>
+     <tr>
+      <td>12:00 - 13:00</td>
+      <td>Lunch</td>
+    </tr>
+    <tr>
+      <td>13:00 - 15:00</td>
+      <td>
+        <ul>
+            <li>Morning recap</li>
+            <li>Introduction to high-resolution imagery</li>
+            <li>How projections affect your data</li>
+            <li>Visualizing vegetation indices with Planet</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+

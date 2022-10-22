@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <html>
 <head>
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 </head>
 </html>
 

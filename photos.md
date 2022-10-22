@@ -5,6 +5,7 @@ nav_order: 6
 ---
 
 # Photos
-This page will be used to access all the photos from the workshop sessions. Embed a Google Drive link or something where all photos can be accessed. 
+[View or Upload Photos](https://drive.google.com/drive/folders/1HPL_hac2O050P-1K7ewO00yvAybS26py?usp=sharing){: .btn .btn-purple }
 
-Maybe include some highlight photos here after each workshop.
+## Recent Workshop Highlights
+Photos from recent workshops will be displayed here.

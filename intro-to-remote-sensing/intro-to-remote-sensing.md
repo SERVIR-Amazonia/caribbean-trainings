@@ -9,7 +9,7 @@ nav_order: 4
 # Introduction to Remote Sensing
 
 ## Pre-workshop Set-up
-1. [Install](https://www.qgis.org/en/site/forusers/download.html) QGIS if it is not already installed.
+1. [Install](https://www.qgis.org/en/site/forusers/download.html) QGIS if not already installed.
 2. Download[ADD LINK TO DATA FOLDER] and upzip the data folder for the lesson. Save the upzipped folder on your Desktop. Make sure the folder is named `intro-remote-sensing-data`. 
 
 ## Session Agenda

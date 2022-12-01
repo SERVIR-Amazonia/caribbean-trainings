@@ -7,7 +7,7 @@ nav_order: 4
 
 # Spatial Analysis
 
-QGIS offers a multitude of geoprocessing tools that allow you to manipulate vector and raster data. Elements such as Buffer, Clip, Dissolve, or Intersection allow you to create zones surrounding a border, cut the layer by a particular boundary, dissolve a specific inner geographical area, or obtain a common area between two or more layers, respectively. These tools give us a way to extract more insightful analyses from geospatial data.
+QGIS offers a multitude of geoprocessing tools that allow you to manipulate vector and raster data. Elements such as `Buffer`, `Clip`, `Dissolve`, or `Intersection` allow you to create zones surrounding a border, cut the layer by a particular boundary, dissolve a specific inner geographical area, or obtain a common area between two or more layers, respectively. These tools give us a way to extract more insightful analyses from geospatial data.
 
 ## Objectives
 1. Learn how to use the buffering tool in QGIS.
@@ -23,7 +23,7 @@ The buffer zone does not have to be defined by a single number – it can vary b
 ### Exercise 3.1. Delineate historical flood risk extent.
 We will visualize flood risk zones by establishing a buffer around the major waterways in Puerto Rico based on historical flood extents.
 
-1. Open the “pr-elev-analysis” project.
+1. Open the `pr-elev-analysis` project.
 2. Ensure that the following layers are loaded into the project:
     1. For analysis: `pr-rivers-corrected-reproj`
     2. For visualization: `PRI_adm0`, `pr-elev-clipped`, `pr-hillshade`.

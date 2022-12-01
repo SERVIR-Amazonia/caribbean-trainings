@@ -10,7 +10,7 @@ Welcome to an Introduction to GIS with QGIS! This workshop will give an overview
 
 ## Set-up
 1. [Install](https://www.qgis.org/en/site/forusers/download.html) QGIS if not already installed.
-2. Download[ADD LINK TO DATA FOLDER] and upzip the data folder for the lesson. Save the upzipped folder on your Desktop. Make sure the folder is named `intro-gis-data`.
+2. [Download](https://drive.google.com/drive/folders/1zIV-ADnNxFNIDcDPvQPu8nmE5X9esnvl?usp=share_link) and upzip the data folder for the lesson. Save the upzipped folder on your Desktop. Make sure the folder is named `intro-gis-data`.
 
 ## Objectives
 1. To show the potential of QGIS as a powerful decision-making tool to policy officers.

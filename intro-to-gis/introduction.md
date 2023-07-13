@@ -30,8 +30,6 @@ Fundamentally, QGIS is open source software. In recent years, there has been a l
 ## QGIS Interface
 We will explore the QGIS user interface so that you are familiar with the menus, toolbars, map canvas and layers list that form the basic structure of the interface before beginning the exercises in this lesson.
 
-[IMAGE qgis interface]
-
 The elements identified in the figure above are:
 1. **Layers List / Browser Panel**
 > In the **Layers** list, you can see a list, at any time, of all the layers available to you. Expanding collapsed items (by clicking the arrow 

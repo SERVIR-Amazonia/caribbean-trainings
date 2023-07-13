@@ -16,6 +16,8 @@ Brief description, list lesson objectives.
 ## Data Collection
 Review how remote sensing data is collected.
 
+<img align="center" src="../images/intro-to-remote-sensing-images/reflected-energy-radiation.png" hspace="15" vspace="10" width="600">
+
 Briefly mention difference between passive and active.
 Note that we will be going over passive RS in later workshops and will focus on optical imagery for this workshop.
 

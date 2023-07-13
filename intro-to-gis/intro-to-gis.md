@@ -15,56 +15,12 @@ Navigate through the different lesson sections by using the menu on the lefthand
 **Date**: DATE  
 **Instructor(s):** NAME(S)
 
-<table>
-  <tbody>
-    <tr>
-      <th align="center">Time</th>
-      <th align="center">Topics</th>
-    </tr>
-    <tr>
-      <td>09:00 - 09:30</td>
-      <td>
-        <ul>
-            <li>Welcome and set-up check</li>
-            <li>Why QGIS?</li>
-            <li>Interface overview</li>
-         </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>09:30 - 10:45</td>
-      <td>
-        <ul>
-            <li>Making and customizing a map using vector data: create a national parks study area map</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10:45 - 11:00</td>
-      <td>Coffee break</td>
-    </tr>
-    <tr>
-      <td>11:00 - 12:00</td>
-      <td>
-        <ul>
-            <li>Making and customizing a map using raster data: create a DEM hillshade map</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12:00 - 13:00</td>
-      <td>Lunch</td>
-    </tr>
-    <tr>
-      <td>13:00 - 15:00</td>
-      <td>
-        <ul>
-            <li>Morning recap</li>
-            <li>Geoprocessing and spatial analysis: create a buffer and calculate zonal statistics using population data</li>
-          </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+| Time          | Topics                                                                                                                    |
+|---------------|---------------------------------------------------------------------------------------------------------------------------|
+| 09:00 - 09:30 | Welcome and set-up check<br>Why QGIS?<br>Interface overview                                                               |
+| 09:30 - 10:45 | Making and customizing a map using vector data: create a national parks study area map                                    |
+| 10:45 - 11:00 | Coffee break                                                                                                              |
+| 11:00 - 12:00 | Making and customizing a map using raster data: create a DEM hillshade map                                                |
+| 12:00 - 13:00 | Lunch                                                                                                                     |
+| 13:00 - 15:00 | Morning recap<br>Geoprocessing and spatial analysis: create a buffer and calculate zonal statistics using population data |
 

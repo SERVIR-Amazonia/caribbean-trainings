@@ -42,6 +42,12 @@ repository (caribbean-trainings)
 └── photos
 ```
 
+github desktop and external editor
+
+markdown 
+
+repository vs website
+
 ## Setup Instructions
 
 ### Using this template
@@ -84,21 +90,33 @@ The following changes will reflect how your github page looks like.
 
 ### Customizing the repository to your training
 
-2. Update the `README.md` file with the description of your repository.
+1. Update the `README.md` file with the description of your repository.
 
-3. config.yml
+2. Update the `config.yml` file with the details of your workshop. The changes here will reflect on the website.
+    1. For `title`, add the title of your workshop
+    2. For `description`, add a short description
+    3. The `baseurl` is the subpath of your site, e.g.: `/NAME-OF-REPOSITORY`. Add the name of the repository so that it matches the website URL `https://servir-amazonia.github.io/NAME-OF-REPOSITORY`.
+    4. The `url` is the base hostname & protocol for your site, `https://servir-amazonia.github.io`. You shouldn't change this unless the repository is not in the SERVIR-Amazonia github organization.
+    5. For `logo`, you can add the name of a png file that contains the logo you desire. This file should be put under the `images` folder of your repository. Currently, the logo file is a png image that contains the SERVIR-Amazonia partners' logos. Don't change this if it is a SERVIR-Amazonia workshop.
+    6. The `remote-theme` is the theme used for the github page. We use the Jekyll theme by `just-the-docs` but there are many more options. You can find more information about `just-the-docs` here: [https://just-the-docs.com/](https://just-the-docs.com/). Don't change this unless you are planning to use another theme. Note that using another theme may desconfigure the format of elements on the website.
 
-3. Got to the `index.md` file and update it according to your country or title of workshop/training.
+3. Under the `_includes` folder, you will find two files. You don't need to worry about the `head.html` file. In the `head_custom.html` file, you can change the favicon that shows up next to the website description when you have the website open in a tab:
+
+<img align="center" src="./images/favicon.png"  vspace="10" width="300">
+
+Currently, the file is SIG's favicon, but you can change it to your organization's favicon. To change it, update the file name in `href="images/favicon.ico"`. Note: you will need to add a new file containing the favicon in the `images` folder, or replace the existing `favicon.ico` file if you intend to use the same file name.
+
+4. Got to the `index.md` file and update the title according to your country or workshop/training.
 
 <img align="center" src="./images/index-country-name.png"  vspace="10" width="800">
 
 <img align="center" src="./images/index-country-name-githubpages.png"  vspace="10" width="800">
 
-4. In the `index.md` file, The `Questions`, `Feedback`, and `Workshop Recordings` sections are buttons that link into specific Google Forms or Drive folders. Update the URLs appropriately.
+5. In the same `index.md` file, the `Questions`, `Feedback`, and `Workshop Recordings` sections are buttons that link into specific Google Forms or Drive folders. Update the URLs appropriately - you will need to create new Google forms and folders in your Drive folder.
 
-e.g.: `[Give Feedback](https://forms.gle/8Jdm1aybL9sqzNEw6){: .btn .btn-purple }`
+e.g.: Update the https://forms.gle/8Jdm1aybL9sqzNEw6 URL in `[Give Feedback](https://forms.gle/8Jdm1aybL9sqzNEw6){: .btn .btn-purple }`.
 
-5. You can use the [Tables Generator](https://www.tablesgenerator.com/markdown_tables) to update the workshop `Agenda` in the `index.md` file: 
+6. You can use the [Tables Generator](https://www.tablesgenerator.com/markdown_tables) to update the workshop `Agenda` in the `index.md` file (easier when you have a table already, e.g. on a doc or spreadsheet): 
 
 <img align="center" src="./images/agenda-raw.png"  vspace="10" width="800">
 
